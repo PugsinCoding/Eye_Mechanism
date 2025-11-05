@@ -1,0 +1,15 @@
+﻿# CHALLENGES IN MECHANISM PRODUCTION 
+During production, each phase and step had challenges I had to overcome, whether it was a physical error, coding error, or just learning how to do something I've never done before.
+Printing
+This was the easiest challenge to overcome. It was the lack of experience since this was my first time using a 3D Printer and especially my first time 3D Printing an already made file. However, the instructions provided with Will Cogley's model had step by step instructions on how to print and the Bambu Studio software made it easy to slice and make the design print-ready.
+Post-Processing
+Putting Together
+This is the first mechanism I've made, which means I'm not used to putting together pieces manually. There were a couple issues I had to deal with: 
+* 1: The Filament - The Basic Filament is strong and a solid choice, however it can also be brittle and not as flexible as other filaments, which can increase the chances of breaking, so I had to be more careful which extended the time it took.
+* 2: Form of Connection - Will Cogley's model connected the pieces together using pieces that snap together instead of screw. This worked for the most part, however I believe my choice of filament made certain parts extremely difficult to snap together. One example is the connection between the motors and pushrods, as it felt nearly impossible to connect.
+My first solution was to keep practicing with my hands, which took some time but I was able to push through and make progress without outside help.
+For the connections I couldn't solve through my own manual force I either had help from another person who was stronger or I used tools. For the motor and pushrod connection, I had to use a dremel to slightly shave the interior pushrod holes.
+Painting
+The biggest issue I had was inexperience. I had to use a lot of time on researching and practicing before I had started painting the eyeballs. I also had to repaint parts of the eyes a couple times since I kept making painting errors and not giving enough time for the layers to dry. However, with practice I was able to create a designed pair of eyes that I was proud of!
+Electronics
+Programming
