@@ -18,13 +18,35 @@ which can increase the chances of breaking, so I had to be more careful which ex
 This worked for the most part, however I believe my choice of filament made certain parts extremely difficult to snap together. 
 One example is the connection between the motors and pushrods, as it felt nearly impossible to connect.
 My first solution was to keep practicing with my hands, which took some time but I was able to push through and make progress without outside help.
-For the connections I couldn't solve through my own manual force I either had help from another person who was stronger or I used tools. For the motor and pushrod connection, I had to use a dremel to slightly shave the interior pushrod holes.
+For the connections I couldn't solve through my own manual force I either had help from another person who was stronger or I used tools. 
+For the motor and pushrod connection, I had to use a dremel to slightly shave the interior pushrod holes.
 [Painting]
 The biggest issue I had was inexperience. I had to use a lot of time on researching and practicing before I had started painting the eyeballs. 
 I also had to repaint parts of the eyes a couple times since I kept making painting errors and not giving enough time for the layers to dry. 
 However, with practice I was able to create a designed pair of eyes that I was proud of!
 
 ELECTRONICS
+The biggest issues were space and organization. 
+Finding the space that connects all the electronic components together to the mechanism in an efficient manner took a little effort.
+However, I found that attaching the Arduino onto the mechanism itself was the best course of action. The breadboard connected was then
+connected to a box that holds the mechanism. That way the motors connected to the arduino and breadboard won't disconnect due to distance.
+Organization was the more challenging issue. The closeness of the arduino and breadboard along with all the jumper and motor wires
+created a clunky and unorganized environment. This led to confusion when editing the circuitry, and sometimes the wires would get stuck together,
+causing more than the desired wire to be removed. I found the best way to organize was to create small sections with the wires, then use 
+small zipties to group said sections together. That way the wires would be organized. I believe further along I might use tape if I want to add more
+complexity to the project, but since the circuits are to my standard I'm using a more permanent connection.
 
 PROGRAMMING
+This section was more tedious than challenging, and any issues I came across came from more of the physical limitations and edits of the project.
+Because of the layout of the motors in the tutorials, the maximum and minimum rotations of each motor have differed when it comes to programming.
+For example, for both upper eyelids, the left side would have 90 degrees as the maximum (fully open) and 0 degrees as the minimum (fully lidded),
+and the right side would have it in an opposite manner. Proper name creation and comment documentation with each min and max helped create an
+efficient workflow for this project. One issue I kept running into was with the lower eyelids, as they would jam at the bottom, no matter
+the degrees (unless if the lid was way up covering the eye).
+
+OTHER MISC ISSUES ENCOUNTERED
+I realized that the main issue was that the motor rotation was having to not 
+only push up the lower lids but it would have to move itself up from the ground. This caused a jam, but was solved by adding a box as a 
+base and cutting rectangular shapes into said box so the lower lid mechanisms would be hanging, relieving said part from fighting against
+ground forces. This also was better for electronic placement as it gave a stable yet constant area where the breadboard can be placed.
 
