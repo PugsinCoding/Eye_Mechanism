@@ -13,4 +13,7 @@ I used PLA filament and it was extremely difficult putting together until I drem
 Trust me, this is how I got my eyes to go from dark blue to a dingy glossy light yellow.
 </p>
 <h3>CODE</h3>
-<p>Code will be posted soon. For motors to be dead center they will start at 90 instead of 0</p>
+<p>Code will be posted soon. Remember the motors are in different positions so each motor usually starts off in a different position.</p>
+
+<h1>FINAL EYE MECH VIDEO</h1>
+<a href="https://youtu.be/39Z2uYqD0Ws">Unlisted Video Link to the Final Eye Mechanism Video</a>
